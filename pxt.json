@@ -10,6 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
+        "customFunctions.ts",
         "test.ts"
     ],
     "testFiles": [
