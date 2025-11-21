@@ -10,8 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "test.ts",
-        "customBlocks.ts"
+        "test.ts"
     ],
     "testFiles": [
         "test.ts"
